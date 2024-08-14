@@ -1,7 +1,4 @@
-let person: { name: string; age: number; } = {
-    name: 'Max',
-    age: 21,
-};
+let person: [string, number] = ['Max', 21];
 
 
 
